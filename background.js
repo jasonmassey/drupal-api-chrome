@@ -22,5 +22,5 @@ function navigate(url) {
 
 chrome.omnibox.onInputEntered.addListener(function(text) {
   if(text.includes(" ")){text = text.replace(/\s+/g, "+")}
-  navigate("https://api.drupal.org/api/drupal/7/search/" + text);
+  navigate("https://github.com/search?utf8=✓&q=" + text);
 });
