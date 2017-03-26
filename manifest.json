@@ -5,7 +5,7 @@
     "keyword": "githubs"
   },
   "icons": {
-    "16": "icon.png"
+    "16": "GitHub-Mark-32px.png"
   },
   "background": {
     "scripts": ["background.js"]
