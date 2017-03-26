@@ -1,6 +1,6 @@
 {
-  "name": "Drupal API Search",
-  "description": "Add support to the omnibox to search the Drupal API",
+  "name": "GitHub Site Search",
+  "description": "Add support to the omnibox to search GitHub.com",
   "omnibox": {
     "keyword": "githubs"
   },
