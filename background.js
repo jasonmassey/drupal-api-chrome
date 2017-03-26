@@ -21,5 +21,5 @@ function navigate(url) {
 }
 
 chrome.omnibox.onInputEntered.addListener(function(text) {
-  navigate("https://api.drupal.org/api/drupal/7/search/" + text);
+  navigate("https://api.drupal.org/api/drupal/7/search/" + text.replace(" ", "+");
 });
