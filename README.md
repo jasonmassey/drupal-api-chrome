@@ -1,13 +1,11 @@
-# Drupal API Search
-[![endorse](https://api.coderwall.com/carwin/endorsecount.png)](https://coderwall.com/carwin)
+# GitHub Global Search
 
-This extension for Google Chrome provides a way to search the
-[Drupal API](http://api.drupal.org) from the omnibar.
+This extension for Google Chrome [searches GitHub.com](https://github.com/search) from the omnibar.
 
 ## Usage
 
- 1. Type `dapi` into the omnibar then hit `tab` or `space` to
+ 1. Type `githubs` into the omnibar then hit `tab` or `space` to
     initialize the extension.
  2. Type your search query and press `Enter`/`Return` to search.
 
- __Suggestions are currently unsupported. See issue #1.__
+ __Suggestions are currently unsupported. See [parent issue.](https://github.com/carwin/drupal-api-chrome/issues/1)__
