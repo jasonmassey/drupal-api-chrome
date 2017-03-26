@@ -2,7 +2,7 @@
   "name": "Drupal API Search",
   "description": "Add support to the omnibox to search the Drupal API",
   "omnibox": {
-    "keyword": "dapi"
+    "keyword": "githubs"
   },
   "icons": {
     "16": "icon.png"

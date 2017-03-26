@@ -1,6 +1,6 @@
 function resetDefaultSuggestion() {
   chrome.omnibox.setDefaultSuggestion({
-    description: 'dapi: Search the Drupal API for %s'
+    description: 'githubs: Search GitHub for %s'
   });
 }
 
@@ -23,4 +23,3 @@ function navigate(url) {
 chrome.omnibox.onInputEntered.addListener(function(text) {
   navigate("https://api.drupal.org/api/drupal/7/search/" + text);
 });
-
