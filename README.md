@@ -1,6 +1,6 @@
 # GitHub Global Search
 
-This extension for Google Chrome [searches GitHub.com](https://github.com/search) from the omnibar.
+This extension for Google Chrome [searches GitHub.com](https://github.com/search) from the omnibox.
 
 ## Usage
 
